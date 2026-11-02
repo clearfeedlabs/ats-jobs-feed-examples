@@ -1,0 +1,12 @@
+{
+  "companies": [
+    "greenhouse:airbnb",
+    "https://jobs.lever.co/spotify",
+    "https://jobs.ashbyhq.com/ramp"
+  ],
+  "keywords": [
+    "engineer"
+  ],
+  "remoteOnly": false,
+  "maxItems": 50
+}

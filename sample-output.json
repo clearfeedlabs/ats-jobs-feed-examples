@@ -1,0 +1,41 @@
+{
+  "atsJobId": "8306554",
+  "ats": "greenhouse",
+  "company": "Airbnb",
+  "companySlug": "airbnb",
+  "title": "AirCover Specialist, Claims Experience",
+  "department": "Community Support",
+  "team": null,
+  "locations": [
+    {
+      "raw": "Canada",
+      "city": null,
+      "region": null,
+      "country": "Canada",
+      "countryCode": "CA"
+    }
+  ],
+  "workplaceType": "remote",
+  "isRemote": true,
+  "employmentType": null,
+  "salary": {
+    "min": 58000,
+    "max": 68000,
+    "currency": "CAD",
+    "period": "year",
+    "source": "parsed",
+    "raw": "$58,000\u2014$68,000 CAD"
+  },
+  "descriptionHtml": "<div class=\"content-intro\"><p><span style=\"font-family: helvetica, arial, sans-serif; font-size: 12pt;\">Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and ha...",
+  "applyUrl": "https://careers.airbnb.com/positions/8306554?gh_jid=8306554",
+  "jobUrl": "https://careers.airbnb.com/positions/8306554?gh_jid=8306554",
+  "postedAt": "2026-10-28T14:52:05.000Z",
+  "updatedAt": "2026-10-28T14:52:05.000Z",
+  "sourceUrl": "https://boards-api.greenhouse.io/v1/boards/airbnb/jobs?content=true",
+  "id": "greenhouse:airbnb:8306554",
+  "seniority": "mid",
+  "descriptionText": "Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every co...",
+  "contentHash": "49f78a4450a15992",
+  "scrapedAt": "2026-11-02T14:05:15.511Z",
+  "firstSeenAt": "2026-11-02T14:05:15.826Z"
+}
