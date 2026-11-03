@@ -1,41 +1,41 @@
 {
-  "atsJobId": "8306554",
+  "atsJobId": "8638232002",
   "ats": "greenhouse",
-  "company": "Airbnb",
-  "companySlug": "airbnb",
-  "title": "AirCover Specialist, Claims Experience",
-  "department": "Community Support",
+  "company": "GitLab",
+  "companySlug": "gitlab",
+  "title": "AI Transformation Owner, CRO",
+  "department": "Enablement",
   "team": null,
   "locations": [
     {
-      "raw": "Canada",
+      "raw": "Remote, United States",
       "city": null,
       "region": null,
-      "country": "Canada",
-      "countryCode": "CA"
+      "country": "United States",
+      "countryCode": "US"
     }
   ],
   "workplaceType": "remote",
   "isRemote": true,
   "employmentType": null,
   "salary": {
-    "min": 58000,
-    "max": 68000,
-    "currency": "CAD",
+    "min": 139200,
+    "max": 235200,
+    "currency": "USD",
     "period": "year",
     "source": "parsed",
-    "raw": "$58,000\u2014$68,000 CAD"
+    "raw": "$139,200\u2014$235,200 USD"
   },
-  "descriptionHtml": "<div class=\"content-intro\"><p><span style=\"font-family: helvetica, arial, sans-serif; font-size: 12pt;\">Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and ha...",
-  "applyUrl": "https://careers.airbnb.com/positions/8306554?gh_jid=8306554",
-  "jobUrl": "https://careers.airbnb.com/positions/8306554?gh_jid=8306554",
-  "postedAt": "2026-10-28T14:52:05.000Z",
-  "updatedAt": "2026-10-28T14:52:05.000Z",
-  "sourceUrl": "https://boards-api.greenhouse.io/v1/boards/airbnb/jobs?content=true",
-  "id": "greenhouse:airbnb:8306554",
+  "descriptionHtml": "<div class=\"content-intro\"><p>GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered u\u2026",
+  "applyUrl": "https://job-boards.greenhouse.io/gitlab/jobs/8638232002",
+  "jobUrl": "https://job-boards.greenhouse.io/gitlab/jobs/8638232002",
+  "postedAt": "2026-07-22T17:38:40.000Z",
+  "updatedAt": "2026-10-28T16:23:39.000Z",
+  "sourceUrl": "https://boards-api.greenhouse.io/v1/boards/gitlab/jobs?content=true",
+  "id": "greenhouse:gitlab:8638232002",
   "seniority": "mid",
-  "descriptionText": "Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every co...",
-  "contentHash": "49f78a4450a15992",
-  "scrapedAt": "2026-11-02T14:05:15.511Z",
-  "firstSeenAt": "2026-11-02T14:05:15.826Z"
+  "descriptionText": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the \u2026",
+  "contentHash": "bac6a12b200cbdd8",
+  "scrapedAt": "2026-11-03T20:42:35.140Z",
+  "firstSeenAt": "2026-11-03T20:42:35.715Z"
 }
